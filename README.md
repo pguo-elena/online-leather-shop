@@ -52,8 +52,5 @@ Release:Simplify the code and comments, then packaged the project.
 Contact Support
 You can contact our support staff by one of the following:
 
-Telephone: (312)714-7460
-
-Email: xwang203@hawk.iit.edu
 
 © 2015 Group-3. All rights reserved.
