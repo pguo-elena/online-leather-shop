@@ -1,0 +1,84 @@
+/* 
+    Created on : Jun 16, 2015, 6:02:04 PM
+    Author     : Dany
+*/
+body { 
+    //padding-top: 65px;
+    font-family: Lucida Grande, Microsoft YaHei, Arial, sans-serif;
+}
+
+.navbar.navbar-inverse {
+    margin-bottom: 0;
+}
+
+#Main_Nav{
+    margin-left: 1%;
+    font-size: 18px;
+    font-family: Microsoft YaHei, Arial, sans-serif;
+}
+
+.To_Start{
+    font-size: 18px;
+    color: #CCCCCC;
+}
+
+.P_Des{
+    font-size: 14px;
+    color: rgba(20, 50, 80, 0.4);
+}
+
+.Nav_P2{
+    font-size: 16px;
+    color: #3E75A3;
+}
+
+label{
+    color: #4B4B4B;
+}
+
+.nav.nav-pills.nav-stacked{
+    font-size: 18px;
+}
+
+.Part_3_Prob{
+    color:#3C719E;
+}
+
+.Right_Tables{
+    color:#3C719E;
+}
+
+#result_table{
+    border: 2px solid #BFBFBF;
+}
+
+#edu {
+    color:#F5F5F5;
+}
+
+#Nav_Part_1 {
+    color:#F5F5F5;
+}
+
+#Nav_Part_2 {
+    color:#F5F5F5;
+}
+
+#Nav_Part_3 {
+    color:#F5F5F5;
+}
+
+#Nav_in_Part2 {
+    margin-bottom: 1px;
+}
+
+#question{
+    margin-bottom: 1%;
+}
+
+#custom{
+}
+
+.btn.btn-default{
+    margin-bottom: 1px;
+}
